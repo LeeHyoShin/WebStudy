@@ -23,8 +23,12 @@ div.contents {
 div#ootd {
     background-color: cyan;
 }
+div#login_form {
+    width: 500px;
+    height: auto;
+}
 div#login_form input {
-    display: inline-block;
+    display: block;
 }
 p {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
