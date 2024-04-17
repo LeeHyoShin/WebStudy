@@ -24,10 +24,13 @@ div#ootd {
     background-color: cyan;
 }
 div#login_form {
+    text-align: center;
+    align-items: center;
     width: 500px;
     height: auto;
 }
 div#login_form input {
+    
     display: block;
 }
 p {
